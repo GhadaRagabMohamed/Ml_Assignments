@@ -6,21 +6,17 @@ This repository contains Machine Learning course assignments using real-world da
 
 ## 1. Regression & Logistic Regression
 
-**Folder: ** '1-Regression_Models'
-
 **Contents:**
 - Simple Linear Regression
 - Multiple Linear Regression
 - Polynomial Regression (degrees 2–4)
 - Logistic Regression (Binary Classification)
 
-**Dataset Used:** Student Performance
+**Dataset Used:** Student Performance & titanic 
 
 ---
 
 ## 2. KNN and Model Selection
-
-**Folder:** '2-KNN_and_GridSearch'
 
 **Contents:**
 - K-Nearest Neighbors (KNN)
@@ -31,13 +27,11 @@ This repository contains Machine Learning course assignments using real-world da
 - Accuracy, Precision, Recall, F1-score
 - Overfitting Analysis
 
-**Dataset Used:** Same as Regression Assignment
+**Dataset Used:** titanic 
 
 ---
 
 ## 3. SVM & Neural Networks
-
-**Folder:** '3-SVM_and_NeuralNetworks'
 
 **Contents:**
 - Support Vector Machine (Linear, RBF, Polynomial Kernels)
